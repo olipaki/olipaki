@@ -1,4 +1,48 @@
-olipaki
+
+
+<div align="center">
+  
+  <h1>Hello :), I'm olivia.</h1>
+
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F본인아이디&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+
+  <br>
+
+  <table>
+    <tr>
+      <td align="center" width="500px">
+        <img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=radical&hide_border=false" width="100%">
+      </td>
+      <td align="left" width="500px">
+        <h3>🔗 Contact & Blog</h3>
+        🍎 <b>Blog:</b> <a href="내-블로그-주소">Velog / Tistory</a><br>
+        📧 <b>Email:</b> 내이메일@gmail.com<br>
+        📸 <b>Instagram:</b> <a href="인스타주소">@MyID</a>
+      </td>
+    </tr>
+  </table>
+
+  <hr>
+
+  <table>
+    <tr>
+      <td align="center" width="500px">
+        <h3>📊 Most Used Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact&theme=radical" width="100%">
+      </td>
+      <td align="left" width="500px">
+        <h3>🛠 Skills</h3>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ### 💻 Platforms & Languages
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
