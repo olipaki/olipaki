@@ -30,9 +30,7 @@
       </td>
     </tr>
   </table>
-
   <br>
-
   <table border="0">
     <tr>
       <td align="center" width="450px">
