@@ -44,11 +44,3 @@
 
 <br>
 
-</div>
-
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
-      </td>
-    </tr>
-  </table>
-
-</div>
